@@ -39,38 +39,6 @@
       <HintPath>..\libs\0Harmony.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="MMHOOK_assembly_googleanalytics">
-      <HintPath>..\libs\MMHOOK_assembly_googleanalytics.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="MMHOOK_assembly_guiutils">
-      <HintPath>..\libs\MMHOOK_assembly_guiutils.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="MMHOOK_assembly_lux">
-      <HintPath>..\libs\MMHOOK_assembly_lux.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="MMHOOK_assembly_postprocessing">
-      <HintPath>..\libs\MMHOOK_assembly_postprocessing.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="MMHOOK_assembly_simplemeshcombine">
-      <HintPath>..\libs\MMHOOK_assembly_simplemeshcombine.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="MMHOOK_assembly_steamworks">
-      <HintPath>..\libs\MMHOOK_assembly_steamworks.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="MMHOOK_assembly_sunshafts">
-      <HintPath>..\libs\MMHOOK_assembly_sunshafts.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="MMHOOK_assembly_utils">
-      <HintPath>..\libs\MMHOOK_assembly_utils.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="MonoMod.RuntimeDetour">
       <HintPath>..\libs\MonoMod.RuntimeDetour.dll</HintPath>
       <Private>False</Private>
@@ -86,10 +54,6 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="ValheimLib">
-      <HintPath>..\libs\ValheimLib.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Configurations\Configuration.cs" />
@@ -154,10 +118,6 @@
     </Reference>
     <Reference Include="BepInEx">
       <HintPath>..\libs\BepInEx.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="MMHOOK_assembly_valheim">
-      <HintPath>..\libs\MMHOOK_assembly_valheim.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Mono.Posix">

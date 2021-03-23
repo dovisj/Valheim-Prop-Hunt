@@ -6,7 +6,8 @@ Inspired by older mods in Counter Strike and Garry's Mod comes a Prop Hunt in Va
 Players on the server are divided into hiders and seekers. They then take turns hiding and searching.
 
 **Currently only turning into different props is synced and initial gameplay setup (waiting for players, setup, hider and seeker distribution)**
-**Do not use your main Character or Worlds for now, if you do make a backup first**
+
+**DO NOT USE your main Character or Worlds for now, if you do make a backup first**
 
 ## Controls
 * Numpad 5 to make a random sound
